@@ -12,6 +12,6 @@ constant: VIS_ID {
 
 visualization: {
   id: "@{VIS_ID}"
-  url: "https://raw.githubusercontent.com/looker/viz-gauge_multiple-marketplace/master/multiple_gauge_charts.js"
+  url: "https://looker-custom-viz-a.lookercdn.com/master/multiple_gauge_charts.js"
   label: "@{VIS_LABEL}"
 }
