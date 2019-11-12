@@ -2,7 +2,7 @@
   "label": "Gauge Multiple Visualization",
   "category_label": "Plug-ins",
   "branding": {
-    "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/gauge_multiple_icon.jpg",
+    "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/gauge_multiple_icon.png",
     "tagline": "Display multiple measures with the Gauge Multiple visualization."
   },
 
